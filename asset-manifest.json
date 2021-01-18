@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Shopify_IMDB_app/static/css/main.e454c567.chunk.css",
+    "main.js": "/Shopify_IMDB_app/static/js/main.052d117d.chunk.js",
+    "main.js.map": "/Shopify_IMDB_app/static/js/main.052d117d.chunk.js.map",
+    "runtime-main.js": "/Shopify_IMDB_app/static/js/runtime-main.50623c04.js",
+    "runtime-main.js.map": "/Shopify_IMDB_app/static/js/runtime-main.50623c04.js.map",
+    "static/js/2.175ff30b.chunk.js": "/Shopify_IMDB_app/static/js/2.175ff30b.chunk.js",
+    "static/js/2.175ff30b.chunk.js.map": "/Shopify_IMDB_app/static/js/2.175ff30b.chunk.js.map",
+    "static/js/3.0a0697ff.chunk.js": "/Shopify_IMDB_app/static/js/3.0a0697ff.chunk.js",
+    "static/js/3.0a0697ff.chunk.js.map": "/Shopify_IMDB_app/static/js/3.0a0697ff.chunk.js.map",
+    "index.html": "/Shopify_IMDB_app/index.html",
+    "static/css/main.e454c567.chunk.css.map": "/Shopify_IMDB_app/static/css/main.e454c567.chunk.css.map",
+    "static/js/2.175ff30b.chunk.js.LICENSE.txt": "/Shopify_IMDB_app/static/js/2.175ff30b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Shopify_IMDB_app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50623c04.js",
+    "static/js/2.175ff30b.chunk.js",
+    "static/css/main.e454c567.chunk.css",
+    "static/js/main.052d117d.chunk.js"
+  ]
+}
