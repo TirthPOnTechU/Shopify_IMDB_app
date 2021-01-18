@@ -28,7 +28,7 @@ class Search extends React.Component{
             this.props.searchResultList([])
             return
         }
-        let response=await fetch('http://www.omdbapi.com/?s='+searchString.valueOf()+'&i=tt3896198&apikey=c6283e6b')
+        let response=await fetch('https://www.omdbapi.com/?s='+searchString.valueOf()+'&i=tt3896198&apikey=c6283e6b')
         response=await response.json()
         if(response.Response=="True"){
             this.props.searchResultList(response.Search)
